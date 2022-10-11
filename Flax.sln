@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flax.Database", "Flax.Database\Flax.Database.csproj", "{C1114699-131D-458F-B2A9-0E09134329DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flax.Logger", "Flax.Logger\Flax.Logger.csproj", "{A16D308D-125D-4FB1-84C5-C6409A8FE608}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flax.FileManager", "Flax.FileManager\Flax.FileManager.csproj", "{116B0AF7-2427-4494-BF24-2A1D2D8A8D32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flax.Registry", "Flax.Registry\Flax.Registry.csproj", "{5BEF07CB-6707-4F35-8247-DEE3EB2BC098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flax.Tests", "Flax.Tests\Flax.Tests.csproj", "{B9C4F9C6-EDE4-4D80-965F-B29BB15B2493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flax.ConsoleUtility", "Flax.ConsoleUtility\Flax.ConsoleUtility.csproj", "{5008FA05-7A76-454B-AFFA-6142B625F617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1114699-131D-458F-B2A9-0E09134329DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1114699-131D-458F-B2A9-0E09134329DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1114699-131D-458F-B2A9-0E09134329DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1114699-131D-458F-B2A9-0E09134329DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16D308D-125D-4FB1-84C5-C6409A8FE608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16D308D-125D-4FB1-84C5-C6409A8FE608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16D308D-125D-4FB1-84C5-C6409A8FE608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16D308D-125D-4FB1-84C5-C6409A8FE608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116B0AF7-2427-4494-BF24-2A1D2D8A8D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116B0AF7-2427-4494-BF24-2A1D2D8A8D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116B0AF7-2427-4494-BF24-2A1D2D8A8D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116B0AF7-2427-4494-BF24-2A1D2D8A8D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEF07CB-6707-4F35-8247-DEE3EB2BC098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEF07CB-6707-4F35-8247-DEE3EB2BC098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEF07CB-6707-4F35-8247-DEE3EB2BC098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEF07CB-6707-4F35-8247-DEE3EB2BC098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C4F9C6-EDE4-4D80-965F-B29BB15B2493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C4F9C6-EDE4-4D80-965F-B29BB15B2493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C4F9C6-EDE4-4D80-965F-B29BB15B2493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C4F9C6-EDE4-4D80-965F-B29BB15B2493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5008FA05-7A76-454B-AFFA-6142B625F617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5008FA05-7A76-454B-AFFA-6142B625F617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5008FA05-7A76-454B-AFFA-6142B625F617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5008FA05-7A76-454B-AFFA-6142B625F617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB025676-78B4-42B9-B38C-EE152A2BC5A4}
+	EndGlobalSection
+EndGlobal
