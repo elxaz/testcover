@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Flax.Logger
 {
     public enum LogType
-    {
+    
         Info,
         Warning,
         Error,
